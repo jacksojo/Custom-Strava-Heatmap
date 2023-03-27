@@ -1,7 +1,7 @@
 # Strava
 This is a project I started in 2023 to explore and visualise my own strava data.
 
-For a quick look at the final output, **download and open the 'activity_group_map.html'** file which visualises 200 of my activities.
+For a quick look at the final output, **download and open the 'activity_group_map.html'** file (click the file, right click on 'raw', and click 'save link as) which visualises 200 of my activities.
 You can click and drag the map to move the view around and scroll to zoom in and out.
 You can click on activity types in the legend to hide and show different activity types.
 
