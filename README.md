@@ -1,5 +1,5 @@
 # Strava
-This repo is a project I started in 2023 to explore and visualise my own strava data.
+This is a project I started in 2023 to explore and visualise my own strava data.
 
 For a quick look at the final output, **open the 'activity_group_map.html'** file which visualises my last 200 activities.
 You can click and drag the map to move the view around and scroll to zoom in and out.
